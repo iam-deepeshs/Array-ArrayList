@@ -1,7 +1,7 @@
 // Main.java
-//Name : Manya Bhargava
-//PRN:23070126072
-//Batch : AIML A3
+//Name : Deepesh Srivastava
+//PRN:23070126028
+//Batch : AIML A2
 import java.util.Scanner;
 
 public class Main {
